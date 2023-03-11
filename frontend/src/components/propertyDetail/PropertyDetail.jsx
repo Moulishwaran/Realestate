@@ -59,7 +59,7 @@ const PropertyDetail = () => {
       <div className={classes.wrapper}>
         <div className={classes.left}>
           <img
-            src={`http://localhost:5000/images/${propertyDetail?.img}`}
+            src={`https://real-estate-app-mern-8qx3.onrender.com/images/${propertyDetail?.img}`}
             alt=""
           />
         </div>

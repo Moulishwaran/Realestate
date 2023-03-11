@@ -37,7 +37,7 @@ const FeaturedProperties = () => {
                 <img
                   src={
                     property.img
-                      ? `http://localhost:5000/images/${property.img}`
+                      ? `https://real-estate-app-mern-8qx3.onrender.com/images/${property.img}`
                       : img
                   }
                   alt=""

@@ -140,7 +140,7 @@ const Properties = () => {
                     className={classes.imgContainer}
                   >
                     <img
-                      src={`http://localhost:5000/images/${property?.img}`}
+                      src={`https://real-estate-app-mern-8qx3.onrender.com/images/${property?.img}`}
                       alt=""
                     />
                   </Link>
